@@ -1,0 +1,30 @@
+.compa{
+    height: 250px;
+    width: 250px;
+    background-color: darkslateblue;
+    border: 10px solid red;
+    margin: 10px;
+    padding: 10px;
+}
+
+.compb{
+    height:250px;
+    width: 250px;
+    background-color: lightcyan;
+    border: 10px solid blue;
+    margin: 10px;
+    padding: 10px;
+}
+table{
+    background-color: lightcyan;
+    border: 10px solid green;
+    margin: 20px;
+    padding: 30px;
+    
+
+
+}
+h2{
+    text-align: center;
+    font-weight: 900;
+}
